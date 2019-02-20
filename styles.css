@@ -99,24 +99,24 @@ img {
 /*****************************
 * Dot customizations go here
 ******************************/
-.dot.red {
-    background-color: rgba(171, 62, 22, 0.65);
+.dot.purple {
+    background-color: rgba(114, 45, 90, 0.65);
 }
 
-.dot.blue {
-    background-color: rgba(11, 45, 90, 0.65);
+.dot.orange {
+    background-color: rgba(193, 74, 22, 0.65);
 }
 
-.dot.sign {
-    top: 62%;
-    left: 50%;
-    transform: translate(-50%, -62%);
+.dot.vest {
+    top: 54%;
+    left: 52%;
+    transform: translate(-52%, -54%);
 }
 
-.dot.coat {
-    top: 38%;
-    left: 17%;
-    transform: translate(-17%, -38%);
+.dot.can {
+    top: 83%;
+    left: 25%;
+    transform: translate(-25%, -83%);
 }
 
 /*********************************
