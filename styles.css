@@ -79,6 +79,7 @@ img {
     position: absolute;
     width: 100%;
     padding: 5px;
+    font-size: 2em;
 }
 
 .dot .close {
@@ -98,34 +99,24 @@ img {
 /*****************************
 * Dot customizations go here
 ******************************/
-.dot.orange {
-    background-color: rgba(255, 133, 25, 0.65);
+.dot.red {
+    background-color: rgba(171, 62, 22, 0.65);
 }
 
 .dot.blue {
-    background-color: rgba(0, 93, 255, 0.65);
+    background-color: rgba(11, 45, 90, 0.65);
 }
 
-.dot.green {
-    background-color: rgba(12, 232, 196, 0.65);
+.dot.sign {
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%, -62%);
 }
 
-.dot.solar {
-    top: 53%;
-    left: 25%;
-    transform: translate(-25%, -53%);
-}
-
-.dot.camera {
-    top: 15%;
-    left: 35%;
-    transform: translate(-35%, -15%);
-}
-
-.dot.wheels {
-    top: 75%;
-    left: 65%;
-    transform: translate(-65%, -75%);
+.dot.coat {
+    top: 38%;
+    left: 17%;
+    transform: translate(-17%, -38%);
 }
 
 /*********************************
